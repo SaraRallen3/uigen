@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(write_tests)",
+      "Bash(brew --version)",
+      "Read(//opt/homebrew/bin/**)"
+    ]
+  }
+}
