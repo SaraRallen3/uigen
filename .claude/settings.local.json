@@ -3,7 +3,9 @@
     "allow": [
       "Skill(write_tests)",
       "Bash(brew --version)",
-      "Read(//opt/homebrew/bin/**)"
+      "Read(//opt/homebrew/bin/**)",
+      "Bash(git commit *)",
+      "Bash(git push *)"
     ]
   }
 }
